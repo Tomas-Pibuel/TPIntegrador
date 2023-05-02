@@ -1,0 +1,53 @@
+body nav {
+    background-color: rgb(55, 58, 54);
+}
+
+nav img {
+    width: 80px;
+    height: 50px;
+}
+
+.btn-js {
+background-color: rgb(240, 216, 4);
+color: black;
+border: none;
+border-radius: 4px;
+margin-top: 5px;
+font-weight: bold;
+}
+
+.btn-react{
+background-color: rgb(46, 150, 163);
+color: white;
+border: none;
+border-radius: 4px;
+margin-top: 5px;
+font-weight: bold;
+}
+
+.btn-negocios{
+    background-color: rgb(67, 74, 75);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.btn-startups{
+    background-color: rgb(187, 50, 50);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.btn-enviar {
+    background-color: rgb(139, 207, 93);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 20px;
+}
